@@ -1,0 +1,10 @@
+[
+   
+   {"team":"Portugal", "ATK":86, "MED":87, "DEF":85},
+   {"team":"France", "ATK":88, "MED":83, "DEF":86},
+   {"team":"Germany", "ATK":80, "MED":89, "DEF":82},
+   {"team":"Spain", "ATK":81, "MED":86, "DEF":81},
+   {"team":"England", "ATK":88, "MED":90, "DEF":82},
+   {"team":"Netherlands", "ATK":82, "MED":84, "DEF":85}
+
+]
