@@ -21,3 +21,5 @@ var accumulator = init;
 
     return accumulator
 };
+
+//teste
