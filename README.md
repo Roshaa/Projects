@@ -1,1 +1,1 @@
-These are my projects using plain JS and Jquery
+These are my projects using plain JS and Jquery 
